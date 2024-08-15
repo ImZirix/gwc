@@ -1,3 +1,3 @@
 # gwc
-this is our first project for beginning of GWC.
-asdfalhsdakljgh
+this is our first project for beginning of GWC
+aaaaaaaaaaaaaaaaaaa
